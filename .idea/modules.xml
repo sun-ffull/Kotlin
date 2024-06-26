@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Kotlin.iml" filepath="$PROJECT_DIR$/.idea/Kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithClass/KotlinWithClass.iml" filepath="$PROJECT_DIR$/KotlinWithClass/KotlinWithClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithException/KotlinWithException.iml" filepath="$PROJECT_DIR$/KotlinWithException/KotlinWithException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithInheritance/KotlinWithInheritance.iml" filepath="$PROJECT_DIR$/KotlinWithInheritance/KotlinWithInheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithNull/KotlinWithNull.iml" filepath="$PROJECT_DIR$/KotlinWithNull/KotlinWithNull.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithOperator/KotlinWithOperator.iml" filepath="$PROJECT_DIR$/KotlinWithOperator/KotlinWithOperator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithType/KotlinWithType.iml" filepath="$PROJECT_DIR$/KotlinWithType/KotlinWithType.iml" />
+      <module fileurl="file://$PROJECT_DIR$/KotlinWithobjectKeyword/KotlinWithobjectKeyword.iml" filepath="$PROJECT_DIR$/KotlinWithobjectKeyword/KotlinWithobjectKeyword.iml" />
+    </modules>
+  </component>
+</project>
